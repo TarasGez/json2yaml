@@ -1,0 +1,18 @@
+video:
+  movies:
+    - name: Moana
+      production_year: '2020'
+      is_favorite: true
+    - name: Frozen
+      production_year: '2014'
+      is_favorite: false
+    - name: Aladdin
+      production_year: '1990'
+      is_favorite: false
+image:
+  logo: logoImage
+  pictures:
+    - img1: IMAGE1
+    - img2: IMAGE2
+    - img3: IMAGE3
+  main: mainImage
